@@ -4,3 +4,14 @@ to create user stories and the backlog, and is also responsible for communicatin
 
 b. The product owner is responsible for creating and managing the backlog and the overall vision of the project, while the scrum master is responsible for 
 implementing agile methods for their scrum team. The scrum master communicates with the team and relays updates to the product owner.
+
+c.
+Sprint planning meeting:
+    -plan tasks for the sprint
+    -estimate effort and allocate tasks
+Sprint retrospective meeting:
+    -look back on completed sprint to assess weak points
+    -move unfinished tasks to backlog
+Scrum meeting:
+    -daily meeting to discuss what was completed yesterday
+    -discuss what will be completed today
