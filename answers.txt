@@ -15,3 +15,8 @@ Sprint retrospective meeting:
 Scrum meeting:
     -daily meeting to discuss what was completed yesterday
     -discuss what will be completed today
+
+d. Epic-a big user story that needs to be broken down into smaller user stories
+Story-a software system requirement that can be expressed in a few sentences
+Bug-a small issue that needs to be resolved so that development of a story can continue
+Task-a smaller component of a story or other small thing that needs to be completed
