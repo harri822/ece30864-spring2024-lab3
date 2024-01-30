@@ -1,0 +1,3 @@
+a. In a non-agile project, the equivalent to the product owner is the project manager. 
+The product owner is responsible for ensuring the company gets maximum value from the teams work by managing and prioritizing the backlog. The product owner is needed
+to create user stories and the backlog, and is also responsible for communicating with stakeholders and the team.
